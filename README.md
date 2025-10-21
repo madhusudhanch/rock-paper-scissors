@@ -1,3 +1,6 @@
+## Live Demo
+Play the game online: [Rock Paper Scissors](https://madhusudhanch.github.io/rock-paper-scissors/)
+
 # 🎮 Rock Paper Scissors Game
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
